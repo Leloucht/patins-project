@@ -15,7 +15,6 @@ section.hero {
 
     & h1 div {
         display: inline-block;
-        border: 2px solid green;
         overflow: hidden;
         height: 5rem;
         width:min-content;
