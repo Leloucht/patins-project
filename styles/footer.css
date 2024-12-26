@@ -23,7 +23,7 @@ footer {
             }
         }
     }
-
+    
     & nav {
         display: flex;
         gap: 2rem;

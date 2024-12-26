@@ -15,7 +15,7 @@ section.gallery {
         width: 100%;
         height: auto;
     }
-
+    
     & .content {
         margin-top: 2rem;
         display: grid;
