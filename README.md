@@ -28,7 +28,7 @@ front-end
 
 ## autor
 Leandro Alves de Araujo Raulino
-(https://www.linkedin.com/in/leandro-alves-de-ara%C3%BAjo-raulino-57bb47225/)
+https://www.linkedin.com/in/leandro-alves-de-ara%C3%BAjo-raulino-57bb47225/
 
 ## agradecimentos
 em especial a Rocketseat pela plataforma de estudos e os projeto desenvoolvidos
